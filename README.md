@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahmus-fifi
-- 👀 I’m interested in python development and Unity Game Development
+- 👀 I’m interested in python development, Unity Game Development, Front/Backend Developer 
 - 🌱 I’m currently learning C#, GDevelop and Unity
 - 💞️ I’m looking to collaborate on a 2d game project
 - 📫 How to reach me on instagram @mahmusart email mahmudshuaib555@gmail.com
